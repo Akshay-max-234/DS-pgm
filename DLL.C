@@ -62,7 +62,7 @@ void delete1()
 {
 if(head==NULL)
 {
-print("\n List is empty\n");
+printf("\n List is empty\n");
 }
 else
 {
@@ -89,4 +89,5 @@ temp=temp->next;
 }
 }
 }
+
 
